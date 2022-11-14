@@ -1,0 +1,12 @@
+body {
+    background: rgba(0, 247, 255, 1);
+}
+
+.calculator-border .lol {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    /* box-shadow: inset; */
+    border-radius: 60%;
+    background-color: white;
+}
