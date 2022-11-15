@@ -1,5 +1,7 @@
 learned:
-    - box-shadow
+    - box-shadow property 
+    - cursor property
+    - transition property
 
 
 
